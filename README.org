@@ -1,0 +1,2 @@
+* gauche-compat.text.tr
+- Common Lisp port of the Gauche text.tr.
