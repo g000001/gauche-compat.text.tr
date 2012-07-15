@@ -8,7 +8,8 @@
                :srfi-1
                :srfi-5
                :srfi-8
-               :srfi-11)
+               :srfi-11
+               :srfi-23 )
   :components ((:file "package")
                (:file "util")
                (:file "gauche-compat.text.tr")
